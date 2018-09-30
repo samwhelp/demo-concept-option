@@ -6,7 +6,7 @@
 
 #define FILE_PATH_CONFIG_INI "config.ini"
 
-#define GROUP_GENERAL "general"
+#define GROUP_GENERAL "General"
 #define KEY_FORCE_USE_UNAR "force_use_unar"
 
 
