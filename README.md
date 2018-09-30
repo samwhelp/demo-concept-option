@@ -8,7 +8,6 @@ demo-concept-option
 * [file_exists - g_file_test](https://github.com/samwhelp/demo-concept-option/tree/master/example/c/file_exists/demo-0020)
 * [get_env](https://github.com/samwhelp/demo-concept-option/tree/master/example/c/get_env/demo-0010)
 * [ini_file](https://github.com/samwhelp/demo-concept-option/tree/master/example/c/ini_file/demo-0010)
-* [ini_file](https://github.com/samwhelp/demo-concept-option/tree/master/example/c/ini_file/demo-0010)
 * [gsettings](https://github.com/samwhelp/demo-concept-option/tree/master/example/c/gsettings/demo-0010)
 * [qsettings](https://github.com/samwhelp/demo-concept-option/tree/master/example/c%2B%2B/qsettings/demo-0010)
 * [lxqtsettings](https://github.com/samwhelp/demo-concept-option/tree/master/example/c%2B%2B/lxqtsettings/demo-0010)
