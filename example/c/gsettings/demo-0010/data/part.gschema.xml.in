@@ -1,0 +1,6 @@
+
+    <key name="force-use-unar" type="b">
+      <default>false</default>
+      <summary>Force use unar.</summary>
+      <description>Force use unar to open zip archives.</description>
+    </key>
